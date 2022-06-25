@@ -1,5 +1,1 @@
-# TheLeeMan
-(A)
-https://owolabifaruqzuriweeklytask.theleeman.repl.co/
-(B)
-https://owolabifaruqzuritask.theleeman.repl.co/
+https://zuriweeklytask02.theleeman.repl.co/
