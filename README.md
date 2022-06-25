@@ -1,1 +1,1 @@
-https://zuriweeklytask02.theleeman.repl.co/
+https://zuriweeklytask-2.theleeman.repl.co/
